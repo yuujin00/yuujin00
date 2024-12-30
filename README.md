@@ -1,5 +1,4 @@
 ## <center>Welcome yuujin00's github 👋 </center>
---- 
 🙇 안녕하세요, 금융IT 전문가로 성장해나가고 있는 권유진 입니다!
 
 ## 🏆 Award
