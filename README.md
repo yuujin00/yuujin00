@@ -20,6 +20,10 @@
 
 ## 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=yuujin00_20)](https://solved.ac/profile/yuujin00)
+
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuujin00&layout=compact)
+
 <!--
 **yuujin00/yuujin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
