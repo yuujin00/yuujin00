@@ -1,4 +1,4 @@
-:-## Welcome yuujin00's github 👋-:
+<center> ## Welcome yuujin00's github 👋 </center>
 |:## Welcome yuujin00's github 👋:|
 
 <!--
