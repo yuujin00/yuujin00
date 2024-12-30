@@ -1,4 +1,4 @@
-## Hi there 👋
+<p style="text-align: center;">## Welcome yuujin00's github 👋</p>
 
 <!--
 **yuujin00/yuujin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
