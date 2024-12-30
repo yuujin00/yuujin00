@@ -22,11 +22,6 @@
 |-----------------------|--------------|
 | [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=yuujin00_20)](https://solved.ac/profile/yuujin00) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuujin00&layout=compact) |
 
-| 🚩 Algorithm Ranking | 🚌 Top Langs |
-|-----------------------|--------------|
-| <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yuujin00_20" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuujin00&layout=compact" width="100%" /> |
-
-
 <!--
 **yuujin00/yuujin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
