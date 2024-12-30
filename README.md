@@ -1,4 +1,4 @@
-## <center>Welcome yuujin00's github 👋 </center>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Welcome+yuujin00%27s+github+%F0%9F%91%8B&fontSize=40&fontAlign=50&fontAlignY=50&desc=nice+to+meet+you+%3A%3E&descSize=20&descAlign=50&descAlignY=60)
 🙇 안녕하세요, 금융IT 전문가로 성장해나가고 있는 권유진 입니다!
 
 ## 🔭Career
