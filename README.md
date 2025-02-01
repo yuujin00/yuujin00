@@ -1,6 +1,6 @@
 ## Welcome yuujin00's github 👋
 
-![header](https://i.pinimg.com/736x/e4/a1/30/e4a130e53e7535bb341ea6c3e986d008.jpg)
+![header](https://i.pinimg.com/736x/22/ff/a1/22ffa12723ecb5eff2e50c37f100564c.jpg)
 
 ## 🔭Career
 👔 2023.01 - 2023.02 IBK기업은행 IT금융개발부 인턴
