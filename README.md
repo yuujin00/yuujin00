@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Welcome+yuujin00%27s+github+%F0%9F%91%8B&fontSize=40&fontAlign=50&fontAlignY=30&desc=nice+to+meet+you+ꉂꉂ(ᵔᗜᵔ*)&descSize=20&descAlign=50&descAlignY=50)
-🙇 안녕하세요, 금융IT 전문가로 성장해나가고 있는 권유진 입니다!
+
+### 🙇 안녕하세요, 금융IT 전문가로 성장해나가고 있는 권유진 입니다!
+
+![header](https://i.pinimg.com/736x/b4/ab/52/b4ab526259d012158d4078cc1d3177a5.jpg)
 
 ## 🔭Career
 👔 2023.01 - 2023.02 IBK기업은행 IT금융개발부 인턴
