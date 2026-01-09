@@ -9,7 +9,7 @@
 
 👔 2025.01 - 2025.04 우리FISA AI엔지니어링 4기
 
-👔 2025.05 -         KISA 개인정보조사단 기획조사팀 주임연구원
+👔 2025.05 -         KISA 개인정보조사단 기획조사팀
 
 ## 🏆 Award
 🥉 2020 금융 빅데이터 아이디어 공모전 장려상 수상
@@ -33,8 +33,7 @@
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚌 Top Langs & 🚩 Algorithm Ranking 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuujin00&layout=compact) 
+## 🚩 Algorithm Ranking 
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=yuujin00_20)](https://solved.ac/profile/yuujin00)
 <!--
 **yuujin00/yuujin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
